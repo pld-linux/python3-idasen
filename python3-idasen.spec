@@ -3,7 +3,7 @@
 Summary:	Python API and CLI for the ikea IDÅSEN standing desk
 Name:		python3-%{module}
 Version:	0.7.1
-Release:	6
+Release:	7
 License:	MIT
 Group:		Libraries/Python
 Source0:	https://pypi.debian.net/idasen/%{module}-%{version}.tar.gz
